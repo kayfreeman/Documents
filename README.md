@@ -60,8 +60,8 @@ All documents are anonymized or created from scratch for practice and educationa
 I'm a [Business Analyst / Project Manager / Agile Practitioner]* exploring best practices, frameworks, and tools to better manage and deliver projects. I enjoy learning by doing — and this repository is a reflection of that approach.
 
 Connect with me:
-- [LinkedIn](https://your-linkedin-url)
-- [Personal Website / Portfolio](https://your-portfolio-url) *(if available)*
+- [LinkedIn]([https://www.linkedin.com/in/yinkafreeman/]
+- [Personal Website / Portfolio](https://your-portfolio-url)
 
 ---
 
@@ -70,8 +70,5 @@ Connect with me:
 This repository is a **personal learning tool** and is not intended to represent any specific organization or client. Sensitive or proprietary information has been removed or anonymized.
 
 ---
-
-## 📜 License
-
 Shared under the [MIT License](LICENSE) — feel free to explore and adapt for your own learning.
 
