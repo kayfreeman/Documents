@@ -60,7 +60,7 @@ All documents are anonymized or created from scratch for practice and educationa
 I'm a [Business Analyst / Project Manager / Agile Practitioner]* exploring best practices, frameworks, and tools to better manage and deliver projects. I enjoy learning by doing — and this repository is a reflection of that approach.
 
 Connect with me:
-- [LinkedIn]([https://www.linkedin.com/in/yinkafreeman/]
+- [LinkedIn](https://www.linkedin.com/in/yinkafreeman)
 - [Personal Website / Portfolio](https://your-portfolio-url)
 
 ---
